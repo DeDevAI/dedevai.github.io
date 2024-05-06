@@ -5,6 +5,6 @@ DeDev's mission is to aggregate the collective computational power of commodity 
 
 
 
-##
+## Credit
 Special thanks to Knight & WebGL Fluid Simulation for this project.
 
